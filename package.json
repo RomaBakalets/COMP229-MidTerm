@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/RomaBakalets/COMP229-MidTerm"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Roma Bakalets",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/RomaBakalets/COMP229-MidTerm/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/RomaBakalets/COMP229-MidTerm#readme"
 }
